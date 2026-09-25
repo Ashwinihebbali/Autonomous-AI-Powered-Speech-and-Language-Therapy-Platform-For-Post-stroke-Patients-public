@@ -18,7 +18,7 @@
 
 <br/>
 
-> Built in collaboration with the **All India Institute of Speech and Hearing (AIISH), Mysuru**
+> Building in collaboration with the **All India Institute of Speech and Hearing (AIISH), Mysuru**
 
 </div>
 
